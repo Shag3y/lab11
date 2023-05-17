@@ -1,2 +1,2 @@
 # lab11
-![Installing Squid](1.png)
+![Installing Squid](1)
