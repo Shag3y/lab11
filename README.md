@@ -1,3 +1,3 @@
 # lab11
 
-![HELLo](1.PNG)
+![](1.PNG)
